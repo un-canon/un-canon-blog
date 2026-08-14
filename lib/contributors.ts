@@ -161,6 +161,12 @@ export const CONTRIBUTORS = [
     teamMember: false,
   },
   {
+    id: "yukio-yanbe",
+    displayName: "山家悠纪夫",
+    aliases: ["Yanbe Yukio", "Yukio Yanbe", "山家悠紀夫"],
+    teamMember: false,
+  },
+  {
     id: "western-un-canon-translation-group",
     displayName: "西方负典编译组",
     aliases: [],

@@ -1,0 +1,200 @@
+{
+  "id": "yanbe-nihon-keizai-30nenshi",
+  "slug": "yanbe-nihon-keizai-30nenshi",
+  "title": "日本经济三十年史",
+  "subtitle": "从泡沫到安倍经济学",
+  "description": "山家悠纪夫回顾泡沫破裂后的三十年：从景气动向、企业收益与工资的分道扬镳讲起，经泡沫的产生与破裂、桥本“六大改革”的受挫、小泉“结构改革”的全面实施，写到民主党政权的三年三个月与安倍经济学的超宽松货币政策。全书把三十年切成四个时期，一面追踪政策，一面对照人们生活的实况，末章另立附论，论证日本是世界第一的资金过剩国、不会变成希腊。",
+  "documentSlug": "yanbe-nihon-keizai-30nenshi",
+  "script": "hans",
+  "status": "complete",
+  "authors": ["山家悠纪夫"],
+  "translators": ["王揆"],
+  "publishedAt": "2026-08-14",
+  "updatedAt": "2026-08-14",
+  "latestChapterId": "edition-note",
+  "pdfUrl": "/downloads/yanbe-nihon-keizai-30nenshi.pdf",
+  "epubUrl": "/downloads/yanbe-nihon-keizai-30nenshi.epub",
+  "citations": {
+    "original": {
+      "itemType": "book",
+      "citationKey": "yanbe2019nihonKeizai30nenshi",
+      "title": "日本経済30年史——バブルからアベノミクスまで",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yukio",
+          "lastName": "Yanbe"
+        }
+      ],
+      "place": "東京",
+      "publisher": "岩波書店",
+      "series": "岩波新書",
+      "seriesNumber": "新赤版 1799",
+      "date": "2019",
+      "language": "ja",
+      "ISBN": "978-4-00-431799-9"
+    },
+    "translation": {
+      "itemType": "book",
+      "citationKey": "yanbe2026nihonKeizai30nenshiZH",
+      "title": "日本经济三十年史",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Yukio",
+          "lastName": "Yanbe"
+        },
+        {
+          "creatorType": "translator",
+          "name": "王揆"
+        }
+      ],
+      "edition": "1",
+      "date": "2026-08",
+      "language": "zh-Hans",
+      "publisher": "西方负典编译组",
+      "extra": "据岩波新書（新赤版）1799，岩波書店 2019 年 10 月 30 日第 1 刷译出。"
+    }
+  },
+  "chapters": [
+    {
+      "id": "preface",
+      "number": "前 1",
+      "title": "前言",
+      "status": "published",
+      "anchor": "前言",
+      "publishedAt": "2026-08-14"
+    },
+    {
+      "id": "part-one",
+      "number": "I",
+      "title": "第一部　1990年代以来的日本经济概观",
+      "status": "published",
+      "presentation": "navigation",
+      "anchor": "part-one",
+      "publishedAt": "2026-08-14",
+      "children": [
+        {
+          "id": "chapter-01",
+          "number": "01",
+          "title": "三十年间日本经济与人们的生活有何变化",
+          "status": "published",
+          "anchor": "第一章-三十年间日本经济与人们的生活有何变化",
+          "publishedAt": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "id": "part-two",
+      "number": "II",
+      "title": "第二部　追踪三十年间的变化",
+      "status": "published",
+      "presentation": "navigation",
+      "anchor": "part-two",
+      "publishedAt": "2026-08-14",
+      "children": [
+        {
+          "id": "chapter-02",
+          "number": "02",
+          "title": "泡沫的产生、膨胀与破裂（1985～1990年）",
+          "status": "published",
+          "anchor": "第二章-泡沫的产生膨胀与破裂19851990年",
+          "publishedAt": "2026-08-14"
+        },
+        {
+          "id": "chapter-03",
+          "number": "03",
+          "title": "泡沫破裂后的七年（1990～1997年）",
+          "status": "published",
+          "anchor": "第三章-泡沫破裂后的七年19901997年",
+          "publishedAt": "2026-08-14"
+        },
+        {
+          "id": "chapter-04",
+          "number": "04",
+          "title": "桥本“结构改革”政策的实施及其破产（1997～2000年）",
+          "status": "published",
+          "anchor": "第四章-桥本结构改革政策的实施及其破产19972000年",
+          "publishedAt": "2026-08-14"
+        },
+        {
+          "id": "chapter-05",
+          "number": "05",
+          "title": "小泉内阁登场与“结构改革”的全面实施（2001～2009年）",
+          "status": "published",
+          "anchor": "第五章-小泉内阁登场与结构改革的全面实施20012009年",
+          "publishedAt": "2026-08-14"
+        },
+        {
+          "id": "chapter-06",
+          "number": "06",
+          "title": "“结构改革”究竟是什么（第四、五章补论）",
+          "status": "published",
+          "anchor": "第六章-结构改革究竟是什么第四五章补论",
+          "publishedAt": "2026-08-14"
+        },
+        {
+          "id": "chapter-07",
+          "number": "07",
+          "title": "民主党政权的诞生与自毁（2009～2012年）",
+          "status": "published",
+          "anchor": "第七章-民主党政权的诞生与自毁20092012年",
+          "publishedAt": "2026-08-14"
+        },
+        {
+          "id": "chapter-08",
+          "number": "08",
+          "title": "安倍经济学：超宽松货币政策与第三轮“结构改革”（2013～2019年）",
+          "status": "published",
+          "anchor": "第八章-安倍经济学超宽松货币政策与第三轮结构改革20132019年",
+          "publishedAt": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "id": "part-three",
+      "number": "III",
+      "title": "第三部　如何看待日本财政",
+      "status": "published",
+      "presentation": "navigation",
+      "anchor": "part-three",
+      "publishedAt": "2026-08-14",
+      "children": [
+        {
+          "id": "chapter-09",
+          "number": "09",
+          "title": "日本是世界第一的资金过剩国——不会变成希腊（第三至八章补论）",
+          "status": "published",
+          "anchor": "第九章-日本是世界第一的资金过剩国不会变成希腊第三至八章补论",
+          "publishedAt": "2026-08-14"
+        }
+      ]
+    },
+    {
+      "id": "references",
+      "number": "附 1",
+      "title": "参考文献",
+      "status": "published",
+      "presentation": "reference",
+      "anchor": "参考文献",
+      "publishedAt": "2026-08-14"
+    },
+    {
+      "id": "afterword",
+      "number": "后 1",
+      "title": "结语",
+      "status": "published",
+      "anchor": "结语",
+      "publishedAt": "2026-08-14"
+    },
+    {
+      "id": "edition-note",
+      "number": "后 2",
+      "title": "版本说明",
+      "status": "published",
+      "presentation": "reference",
+      "anchor": "版本说明",
+      "publishedAt": "2026-08-14"
+    }
+  ]
+}

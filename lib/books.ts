@@ -96,6 +96,9 @@ const BOOK_COVER_ASSETS: Record<string, BookCoverAsset> = {
   "nakamura-showa-kyoko-to-keizai-seisaku": {
     src: "/img/nakamura-showa-kyoko-to-keizai-seisaku-cover.jpg",
   },
+  "yanbe-nihon-keizai-30nenshi": {
+    src: "/img/yanbe-nihon-keizai-30nenshi-cover.jpg",
+  },
 };
 
 export function getBookCoverAssets(slug: string): BookCoverAsset | undefined {
