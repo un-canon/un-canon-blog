@@ -99,6 +99,9 @@ const BOOK_COVER_ASSETS: Record<string, BookCoverAsset> = {
   "yanbe-nihon-keizai-30nenshi": {
     src: "/img/yanbe-nihon-keizai-30nenshi-cover.jpg",
   },
+  "takagi-meiji-ishin-to-gounou": {
+    src: "/img/takagi-meiji-ishin-to-gounou-cover.jpg",
+  },
 };
 
 export function getBookCoverAssets(slug: string): BookCoverAsset | undefined {

@@ -167,6 +167,12 @@ export const CONTRIBUTORS = [
     teamMember: false,
   },
   {
+    id: "shunsuke-takagi",
+    displayName: "高木俊辅",
+    aliases: ["Takagi Shunsuke", "Shunsuke Takagi", "高木俊輔"],
+    teamMember: false,
+  },
+  {
     id: "western-un-canon-translation-group",
     displayName: "西方负典编译组",
     aliases: [],

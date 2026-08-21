@@ -1,0 +1,268 @@
+{
+  "id": "takagi-meiji-ishin-to-gounou",
+  "slug": "takagi-meiji-ishin-to-gounou",
+  "title": "明治维新与豪农",
+  "subtitle": "古桥晖儿的生平",
+  "description": "高木俊辅依古桥家文书与历代日记，追踪三河国设乐郡稻桥村（今爱知县丰田市稻武町）豪农古桥家六代当主古桥晖儿（1813－1892）的一生：从化政年间的经营危机与天保饥荒后的家政改革讲起，经安石代叹愿、赴江户谋助乡免除、入平田门与长州征伐的献金，写到维新之际出仕三河裁判所与伊那县足助局、提出“富国攘夷”策，再到回村推行制茶、养蚕、产马与农谈会，创办乡校明月清风校，直至松方财政下家业急转、晚年把指望押在山林上。全书把豪农放回他所置身的村落与地方情势里定位：既不当作近代化的担当者一味褒扬，也不作为应予克服的对象一味指摘。",
+  "documentSlug": "takagi-meiji-ishin-to-gounou",
+  "script": "hans",
+  "status": "complete",
+  "authors": ["高木俊辅"],
+  "translators": ["王揆"],
+  "publishedAt": "2026-08-21",
+  "updatedAt": "2026-08-21",
+  "latestChapterId": "edition-note",
+  "pdfUrl": "/downloads/takagi-meiji-ishin-to-gounou.pdf",
+  "epubUrl": "/downloads/takagi-meiji-ishin-to-gounou.epub",
+  "citations": {
+    "original": {
+      "itemType": "book",
+      "citationKey": "takagi2011meijiIshinToGounou",
+      "title": "明治維新と豪農——古橋暉兒の生涯",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Shunsuke",
+          "lastName": "Takagi"
+        }
+      ],
+      "place": "東京",
+      "publisher": "吉川弘文館",
+      "series": "歴史文化ライブラリー",
+      "seriesNumber": "326",
+      "date": "2011",
+      "language": "ja",
+      "ISBN": "978-4-642-05726-4"
+    },
+    "translation": {
+      "itemType": "book",
+      "citationKey": "takagi2026meijiIshinToGounouZH",
+      "title": "明治维新与豪农",
+      "creators": [
+        {
+          "creatorType": "author",
+          "firstName": "Shunsuke",
+          "lastName": "Takagi"
+        },
+        {
+          "creatorType": "translator",
+          "name": "王揆"
+        }
+      ],
+      "edition": "1",
+      "date": "2026-08",
+      "language": "zh-Hans",
+      "publisher": "西方负典编译组",
+      "extra": "据历史文化文库（歴史文化ライブラリー）第 326 种，吉川弘文馆 2011 年 8 月 1 日第 1 刷译出。"
+    }
+  },
+  "chapters": [
+    {
+      "id": "prologue",
+      "number": "前 1",
+      "title": "明治维新与豪农——序章",
+      "status": "published",
+      "anchor": "明治维新与豪农序章",
+      "publishedAt": "2026-08-21"
+    },
+    {
+      "id": "part-one",
+      "number": "I",
+      "title": "豪农古桥家与稻桥村",
+      "status": "published",
+      "presentation": "navigation",
+      "anchor": "part-one",
+      "publishedAt": "2026-08-21",
+      "children": [
+        {
+          "id": "chapter-01",
+          "number": "01",
+          "title": "古桥家的历史",
+          "status": "published",
+          "anchor": "古桥家的历史",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-02",
+          "number": "02",
+          "title": "重整家业与村政",
+          "status": "published",
+          "anchor": "重整家业与村政",
+          "publishedAt": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "id": "part-two",
+      "number": "II",
+      "title": "走向幕末政局",
+      "status": "published",
+      "presentation": "navigation",
+      "anchor": "part-two",
+      "publishedAt": "2026-08-21",
+      "children": [
+        {
+          "id": "chapter-03",
+          "number": "03",
+          "title": "叹愿与诉愿的日子",
+          "status": "published",
+          "anchor": "叹愿与诉愿的日子",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-04",
+          "number": "04",
+          "title": "为免除助乡而赴江户",
+          "status": "published",
+          "anchor": "为免除助乡而赴江户",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-05",
+          "number": "05",
+          "title": "草莽国学者的诞生",
+          "status": "published",
+          "anchor": "草莽国学者的诞生",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-06",
+          "number": "06",
+          "title": "农兵计划与长州征伐的献金",
+          "status": "published",
+          "anchor": "农兵计划与长州征伐的献金",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-07",
+          "number": "07",
+          "title": "信仰生活的积极化",
+          "status": "published",
+          "anchor": "信仰生活的积极化",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-08",
+          "number": "08",
+          "title": "庆应二、三年的行动与情报搜集",
+          "status": "published",
+          "anchor": "庆应二三年的行动与情报搜集",
+          "publishedAt": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "id": "part-three",
+      "number": "III",
+      "title": "对“御一新”政治的期待与参与",
+      "status": "published",
+      "presentation": "navigation",
+      "anchor": "part-three",
+      "publishedAt": "2026-08-21",
+      "children": [
+        {
+          "id": "chapter-09",
+          "number": "09",
+          "title": "与平田没后门同志一同出仕",
+          "status": "published",
+          "anchor": "与平田没后门同志一同出仕",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-10",
+          "number": "10",
+          "title": "新政之下的地方",
+          "status": "published",
+          "anchor": "新政之下的地方",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-11",
+          "number": "11",
+          "title": "振兴物产的政策",
+          "status": "published",
+          "anchor": "振兴物产的政策",
+          "publishedAt": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "id": "part-four",
+      "number": "IV",
+      "title": "活在村里",
+      "status": "published",
+      "presentation": "navigation",
+      "anchor": "part-four",
+      "publishedAt": "2026-08-21",
+      "children": [
+        {
+          "id": "chapter-12",
+          "number": "12",
+          "title": "地方殖产的引入",
+          "status": "published",
+          "anchor": "地方殖产的引入",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-13",
+          "number": "13",
+          "title": "地方政治与乡土教育",
+          "status": "published",
+          "anchor": "地方政治与乡土教育",
+          "publishedAt": "2026-08-21"
+        },
+        {
+          "id": "chapter-14",
+          "number": "14",
+          "title": "明治十年代后半的变动",
+          "status": "published",
+          "anchor": "明治十年代后半的变动",
+          "publishedAt": "2026-08-21"
+        }
+      ]
+    },
+    {
+      "id": "epilogue",
+      "number": "后 1",
+      "title": "晖儿的晚年——终章",
+      "status": "published",
+      "anchor": "晖儿的晚年终章",
+      "publishedAt": "2026-08-21"
+    },
+    {
+      "id": "afterword",
+      "number": "后 2",
+      "title": "后记",
+      "status": "published",
+      "anchor": "后记",
+      "publishedAt": "2026-08-21"
+    },
+    {
+      "id": "references",
+      "number": "附 1",
+      "title": "参考文献",
+      "status": "published",
+      "presentation": "reference",
+      "anchor": "参考文献",
+      "publishedAt": "2026-08-21"
+    },
+    {
+      "id": "chronology",
+      "number": "附 2",
+      "title": "古桥家年表",
+      "status": "published",
+      "presentation": "reference",
+      "anchor": "古桥家年表",
+      "publishedAt": "2026-08-21"
+    },
+    {
+      "id": "edition-note",
+      "number": "后 3",
+      "title": "版本说明",
+      "status": "published",
+      "presentation": "reference",
+      "anchor": "版本说明",
+      "publishedAt": "2026-08-21"
+    }
+  ]
+}
